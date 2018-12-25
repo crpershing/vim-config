@@ -16,6 +16,7 @@ set backspace=eol,start,indent
 " Remove annoying error sounds
 set noerrorbells
 set novisualbell
+set vb t_vb=
 
 " Text encoding
 set encoding=utf-8

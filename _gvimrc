@@ -1,2 +1,7 @@
 set guioptions+=b
 colors ker_theme
+
+" Remove annoying error sounds
+set noerrorbells
+set novisualbell
+set vb t_vb=
