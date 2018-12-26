@@ -34,8 +34,8 @@ set si 			"smart indent
 let mapleader=","
 
 " Leader mappings
-noremap <leader>p "+p	"clipboard paste after caret
-noremap <leader>P "+P 	"clipboard paste before caret
-noremap <leader>y "+y 	"yank text to the clipboard
-noremap <leader>v ^vg_ 	"select all text in current line without line break
-noremap <leader>d 0D 	"remove all contexts within the current line
+noremap <leader>p "+p
+noremap <leader>P "+P
+noremap <leader>y "+y
+noremap <leader>v ^vg_
+noremap <leader>d 0D 
