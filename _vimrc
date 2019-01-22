@@ -37,5 +37,7 @@ let mapleader=","
 noremap <leader>p "+p
 noremap <leader>P "+P
 noremap <leader>y "+y
-noremap <leader>v ^vg_
-noremap <leader>d 0D 
+noremap <leader>d 0D
+noremap <leader>vl vg_
+noremap <leader>vh v^
+noremap <leader>vo ^vg_
